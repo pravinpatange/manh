@@ -1,0 +1,6 @@
+package com.project.Project.service;
+
+public interface UserInterface {
+	void save(User user);
+
+}

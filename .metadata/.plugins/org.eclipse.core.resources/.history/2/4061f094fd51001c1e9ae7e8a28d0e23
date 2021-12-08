@@ -1,0 +1,5 @@
+package com.project.Project.service;
+
+public interface UserInterface {
+
+}

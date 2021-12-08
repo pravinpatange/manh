@@ -1,0 +1,16 @@
+package com.project.Project.serviceImpl;
+
+import com.project.Project.model.User;
+import com.project.Project.service.UserInterface;
+
+public class UserImpl implements UserInterface{
+
+	@Override
+	public void save(User user) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+
+}
